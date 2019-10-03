@@ -16,15 +16,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^24.8.0",
-    "nodemon": "^1.19.1"
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.3"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
     "crypto-js": "^3.1.9-1",
-    "elliptic": "^6.5.0",
+    "elliptic": "^6.5.1",
     "express": "^4.17.1",
-    "uuid": "^3.3.2",
+    "uuid": "^3.3.3",
     "ws": "^6.2.1"
   }
 }
